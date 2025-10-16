@@ -23,4 +23,3 @@ pipeline {
         }
     }
 }
-has context menu
